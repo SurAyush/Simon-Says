@@ -1,0 +1,21 @@
+body{
+    background-color: #fdf0d5;
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+}
+.box{
+    width:200px;
+    height: 200px;
+    border-radius: 15%;
+    margin: 20px;
+    border: 5px solid black;
+}
+.boxes{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 500px;
+}
